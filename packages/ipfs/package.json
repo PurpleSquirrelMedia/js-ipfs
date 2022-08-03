@@ -71,7 +71,7 @@
     "ipfs-cli": "^0.12.3",
     "ipfs-core": "^0.14.3",
     "semver": "^7.3.2",
-    "update-notifier": "^5.0.0"
+    "update-notifier": "^6.0.2"
   },
   "devDependencies": {
     "@libp2p/webrtc-star-signalling-server": "^1.0.3",
